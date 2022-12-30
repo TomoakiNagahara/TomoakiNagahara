@@ -5,16 +5,16 @@
 - 📫 How to reach me https://twitter.com/TomoakiNagahara/
 
  1. Nintendo Basic
- 2. C/C++ by Macintosh
- 3. C/C++ by Win32 API
- 4. C/C++ by WinNT
- 5. C/C++ by Linux
- 6. C/C++ by CGI
- 7. Perl by CGI
- 8. Java by iMode
- 9. PHP in Web service
- 10. Objective-C in iPhone
- 11. C# in iPhone and Android
+ 2. C/C++ for Macintosh
+ 3. C/C++ for Win32 API
+ 4. C/C++ for WinNT
+ 5. C/C++ for Linux
+ 6. C/C++ for CGI
+ 7. Perl for CGI
+ 8. Java for iMode
+ 9. PHP
+ 10. Objective-C
+ 11. C# for iPhone and Android
  12. Returned to PHP.
 
 <!---
